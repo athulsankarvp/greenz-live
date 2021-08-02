@@ -31,6 +31,8 @@ Vellanikkara, Garden, Mannuthy Nursery, Mannuthy Garden, Garden in Mannuthy, Bes
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body>
+
+<div id="preloader"></div>
 <!-- banner -->
 <div class="banner_top" id="home">
 	<div data-vide-bg ="video/flowers">
@@ -547,6 +549,12 @@ Vellanikkara, Garden, Mannuthy Nursery, Mannuthy Garden, Garden in Mannuthy, Bes
 		</div>
 	</div>
 <!-- //footer -->
+<script>
+	var loader= document.getElementById("preloader");
+	window.addEventListener("load",function(){
+		loader.style.display="none";
+	})
+</script>
 <!-- js -->
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 <!-- //js -->
