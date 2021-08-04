@@ -547,7 +547,7 @@ ul.social-icons3 li:last-child:after {
 /*-- /about --*/
 /*-- banner-text --*/
 .banner-text{
-    background: url(../images/banner1.jpg)no-repeat center;
+    background: url(../images/banner.jpg)no-repeat center;
        background-attachment: fixed;
     background-size: cover;
     -webkit-background-size: cover;
@@ -1024,31 +1024,7 @@ h3.wthree_head.two {
 	transform: translateX(380px);
 }
 /*-- //gallery --*/
-/*-- testimonials --*/
-.testimonials{
-	background: url(../images/banner3.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
-    min-height: 400px;
-    background-attachment:fixed;
-}
-.wdm_testimonials_grid_left p{
-	color:#fff;
-	line-height:2em;
-	margin: 4em 0 0;
-}
-.wdm_testimonials_grid_right img{
-	border: 5px solid #fff;
-    border-radius: 120px;
-    margin: 0 auto;
-}
-.agile_dot_info.three {
-    padding: 8em 0 11.5em 0;
-}
-/*-- //testimonials --*/
+
 /*-- contact --*/
 .wdmlayouts_mail_grid_right input[type="text"], .wdmlayouts_mail_grid_right input[type="email"], .wdmlayouts_mail_grid_right textarea {
     outline: none;
