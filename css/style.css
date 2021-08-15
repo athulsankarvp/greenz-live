@@ -2603,7 +2603,7 @@ ul.social-icons3.two li:nth-child(1):before, ul.social-icons3.two:last-child:aft
 #preloader{
 
 	background: #000 url(loader.gif) no-repeat center center;
-	background-size: 10%;
+	background-size: 20%;
 	height: 100vh;
 	width: 100%;
 	position: fixed;

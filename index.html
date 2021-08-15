@@ -474,7 +474,7 @@
 							<input type="email" name="Email" placeholder="Email" required="">
 						</div>
 						<div class="col-md-6 wthree_contact_left_grid">
-							<input type="text" name="Telephone" placeholder="Telephone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}required="">
+							<input type="text" name="Telephone" placeholder="Telephone" required="">
 							<input type="text" name="Subject" placeholder="Requirement" required="">
 						</div>
 						<div class="clearfix"> </div>
@@ -683,7 +683,6 @@
 				method: "post",
 				success: function (response) {
 					alert("Succesfully submitted")
-					window.location.reload()
 					//window.location.href="https://google.com"
 				},
 				error: function (err) {
