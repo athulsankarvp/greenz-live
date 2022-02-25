@@ -148,7 +148,7 @@ ul.top_agile_info_ad li {
 .wdm_agileits_logo h1 a span {
     font-size: 12px;
     text-align: center;
-    color: #7aba1e;
+    color: #9ac720;
 }
 .header_contact_details_agile i {
     color: #fff;
@@ -159,7 +159,7 @@ ul.top_agile_info_ad li {
     font-size: 1.5em;
 }
 .header-contact-detail-title {
-    color: #7aba1e;
+    color: #9ac720;
     font-size: 1.2em;
     font-weight: 600;
     margin-bottom: 7px;
@@ -221,7 +221,7 @@ ul.dropdown-menu.agile_short_dropdown > li > a:hover{
 }
 .mobile-menu ul li a:after {
 	content: '';
-    background: #7aba1e;
+    background: #9ac720;
 	width: 100%;
 	height: 100%;
 	position: absolute;
@@ -296,7 +296,7 @@ font-size: 4.5em;
        font-size: 0.9em;
     text-transform: uppercase;
     letter-spacing: 24px;
-    color: #7aba1e;
+    color: #9ac720;
     font-weight: 600;
 }
 .wdm_agileits_social_media {
@@ -576,7 +576,7 @@ ul.social-icons3 li:last-child:after {
     position: absolute;
     left: 20px;
     top: -28px;
-    color: #7aba1e;
+    color: #9ac720;
 }
 /*-- //banner-text --*/
 /*-- banner-bottom --*/
@@ -648,7 +648,7 @@ ul.social-icons3 li:last-child:after {
 }
 .agile_text_box h3{
     font-size: 1.2em;
-    color: #7aba1e;
+    color: #9ac720;
     line-height: 1.5em;
     margin: 1em 0 .5em;
     text-transform: uppercase;
@@ -673,7 +673,7 @@ ul.social-icons3 li:last-child:after {
     font-weight: 600;
 }
 .banner_bottom_left p i{
-    color: #7aba1e;
+    color: #9ac720;
     display: block;
     margin: .5em 0 1em;
     letter-spacing: 3px;
@@ -696,7 +696,7 @@ ul.social-icons3 li:last-child:after {
   transform: perspective(1px) translateZ(0);
   box-shadow: 0 0 1px transparent;
   position: relative;
-  background:#7aba1e;
+  background:#9ac720;
   -webkit-transition-property: color;
   transition-property: color;
   -webkit-transition-duration: 0.3s;
@@ -748,7 +748,7 @@ ul.social-icons3 li:last-child:after {
     height: 50px;
     text-align: center;
     color: #fff;
-    background: #7aba1e;
+    background: #9ac720;
     margin: 0 auto;
     border-radius: 25px;
     line-height: 50px;
@@ -962,7 +962,7 @@ h3.wthree_head.two {
     padding: .5em;
     width: 30%;
     margin: 0 auto 1em;
-    background: #7aba1e;
+    background: #9ac720;
     color: #fff;
 }
 .box .scale-caption p {
@@ -1048,7 +1048,7 @@ h3.wthree_head.two {
     font-size: 14px;
     color:#fff;
     font-weight: 600;
-    background: #7aba1e;
+    background: #9ac720;
     width: 46%;
     border: none;
     text-transform: uppercase;
@@ -1203,7 +1203,7 @@ a.wdm_agile_instagram:hover{
 }
 ul.social-icons3.two li:nth-child(1):before, ul.social-icons3.two:last-child:after {
     content: '';
-    background: #7aba1e;
+    background: #9ac720;
     height: 2px;
     width: 35px;
     position: absolute;
@@ -1301,7 +1301,7 @@ ul.social-icons3.two li:nth-child(1):before, ul.social-icons3.two:last-child:aft
     outline: none;
     border: none;
     width: 25%;
-    background: #7aba1e;
+    background: #9ac720;
     padding: 7px 6px;
     color: #fff;
     letter-spacing: 1px;

@@ -17,7 +17,7 @@
     top: 20px;
     overflow: hidden;
     border: none;
-    background:#7aba1e;
+    background:#9ac720;
     color: #fff;
 }
 button#trigger-overlay {
@@ -67,7 +67,7 @@ button#trigger-overlay {
 
 .overlay ul li a:hover,
 .overlay ul li a:focus {
-	 color: #7aba1e;
+	 color: #9ac720;
 }
 /* Effects */
 html, body {
