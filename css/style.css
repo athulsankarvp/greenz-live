@@ -111,7 +111,11 @@ a:focus{
     position: relative;
     letter-spacing: 3px;
 }
-
+.header-logo{
+	width: 100px;
+	height: 100px;
+	padding: 10px 10px;
+}
 .agileits_wdmlayouts_banner_info{
 	width:80%;
 	margin:0 auto;
@@ -345,7 +349,7 @@ ul.social-icons3 li a.wthree_twitter{
 	 background:#1da1f2;
 }
 ul.social-icons3 li a.wthree_instagram{
-	 background:#ea4c89;
+	 background:#E1306C;
 }
 ul.social-icons3 li a.wthree_whatsapp{
 	 background:#075e54;
@@ -1184,7 +1188,7 @@ a.wdm_agile_whatsapp{
 	background:#4fce5d;
 }
 a.wdm_agile_instagram{
-	background:#dd2a7b;
+	background:#E1306C;
 }
 a.wdm_agile_facebook:hover {
     background: #84a3e3;
@@ -1196,7 +1200,7 @@ a.wdm_agile_whatsapp:hover{
 	background:#435a64;
 }
 a.wdm_agile_instagram:hover{
-	background:#f9ed32;
+	background:#de7699;
 }
 .banner-bottom, .services,.gallery_main, .contact, .footer,.wdmagile.welcome {
     padding: 5em 0;
